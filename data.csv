@@ -1,0 +1,31 @@
+Ticket ID,Date,Customer Name,Product,Issue Description,Category,Status,Priority,,,,,,,
+T004,02-03-26,Neha Verma,Lube Kit Pro,oil bottle leaking,damaged product,Resolved,Low,,,Category,COUNTA of Ticket ID,,Status,COUNTA of Status
+T005,03-03-26,Arjun Nair,3x3 speed cube pro,corner broken on arrival,damaged product,open,High,,,,0,,,0
+T006,03-03-26,Pooja Singh,Timer Stack Pro,timer not working properly,damaged product,Closed,Medium,,,damaged product,6,,Closed,12
+T016,08-03-26,Aisha Khan,Timer Stack Pro,buttons not responding,damaged product,Closed,Medium,,,Delivery Delay,6,,open,16
+T024,12-03-26,Shreya Gupta,4x4 Master Cube,internal broken,damaged product,open,High,,,Missing Item,2,,Resolved,1
+T027,14-03-26,Gaurav Bansal,Timer Stack Pro,display flickering,damaged product,Closed,Medium,,,Packaging issue,1,,Grand Total,29
+T003,02-03-26,Karan Patel,4x4 Master Cube,delivery late by 5 days,Delivery Delay,Open,HIGH,,,Product Quality,8,,,
+T023,12-03-26,Deepak Singh,Mirror Cube,late delivery but fine,Delivery delay,Closed,Low,,,Refund delay,2,,,
+T028,14-03-26,Ishita Sen,5x5 Cube Advanced,delivery rescheduled many times,Delivery Delay,open,Medium,,,Replacement Delay,2,,,
+T007,04-03-26,Rohit Gupta,Pyraminx Speed Cube,marked delivered but not received,Delivery Delay,open,High,,,Wrong item,3,,,
+T017,09-03-26,Saurabh Mishra,3x3 Speed Cube Lite,delivery guy not reachable,Delivery Delay,Open,High,,,Grand Total,30,,,
+T020,10-03-26,Ananya Das,2x2 Cube Basic,combo ordered got only 1 item,Missing Item,Closed,Medium,,,,,,,
+T012,06-03-26,Meera Joshi,Lube Kit Basic,missing item in box,Missing Item,closed,Medium,,,,,,,
+T018,09-03-26,Nidhi Kapoor,Pyraminx Speed Cube,packaging damaged but product ok,Packaging issue,closed,Low,,,,,,,
+T011,06-03-26,Vikas Yadav,3x3 Speed Cube Pro,looks like duplicate product,Product Quality,Open,High,,,Product,COUNTA of Product,,,
+T001,01-03-26,Amit Sharma,3x3 Speed Cube Pro,Cube is very tight and scratches seen,product quality,open,High,,,,0,,,
+T009,05-03-26,Ankit Jain,5x5 Cube Advanced,pieces popping frequently,Product Quality,Closed,Medium,,,2x2 Cube Basic,3,,,
+T013,07-03-26,Harsh Agarwal,Mirror Cube,edges sharp difficult to use,Product quality,Closed,Low,,,3x3 Speed Cube Lite,3,,,
+T014,07-03-26,Simran Kaur,3x3 Speed Cube Pro,color faded quickly,product Quality,open,Medium,,,3x3 speed cube pro,6,,,
+T021,11-03-26,Rahul Chatterjee,3x3 Speed Cube Pro,not smooth even after lube,Product quality,Open,Medium,,,4x4 Master Cube,3,,,
+T026,13-03-26,Tanya Arora,Pyraminx Speed Cube,received used product,Product quality,open,High,,,5x5 Cube Advanced,3,,,
+T030,15-03-26,Divya Reddy,Lube Kit Basic,cap broken leaking oil,Product Quality,closed,Low,,,Lube Kit Basic,2,,,
+T015,08-03-26,Raj Malhotra,4x4 Master Cube,refund not received after return,Refund delay,open,High,,,Lube Kit Pro,2,,,
+T025,13-03-26,Manish Kumar,3x3 Speed Cube Lite,cancelled but refund pending,refund Delay,Open,High,,,Mirror Cube,2,,,
+T008,04-03-26,Sneha Iyer,3x3 Speed Cube Lite,no update on replacement request,Replacement Delay,,Medium,,,Pyraminx Speed Cube,3,,,
+T019,10-03-26,Aditya Rao,5x5 Cube Advanced,replacement approved not shipped,Replacement delay,open,High,,,Timer Stack Pro,3,,,
+T010,05-03-26,Kavya Shah,2x2 Cube Basic,order not shipped yet,Delivery Delay,open,Low,,,Grand Total,30,,,
+T002,01-03-26,Riya Mehta,2x2 cube basic,Got wrong item (black instead of stickerless),Wrong item,closed,Medium,,,,,,,
+T022,11-03-26,Priya Nair,Lube Kit Pro,wrong quantity delivered,Wrong Item,closed,Low,,,,,,,
+T029,15-03-26,Varun Khanna,3x3 Speed Cube Pro,replacement wrong again,wrong item,Open,High,,,,,,,
